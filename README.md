@@ -2,7 +2,7 @@
 ## 🌐 Socials:
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/henriwzz) 
 
-# 💻 Tech Stack:
+# 💻 Code Portofolio:
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi) 
 ---
 [![](https://visitcount.itsvg.in/api?id=henridevv&icon=2&color=9)](https://visitcount.itsvg.in)
