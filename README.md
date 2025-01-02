@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=100&pause=1000&color=D20000&width=435&lines=henri)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=10000&pause=1000&color=D20000&width=435&lines=henri)](https://git.io/typing-svg)
 ---
 
 # 💻 Code History:
